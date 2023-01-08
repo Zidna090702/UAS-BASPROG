@@ -30,5 +30,5 @@ Link :
 
 # Berikut link repository github :
 
-Link :
+Link : https://github.com/Zidna090702/UAS-BASPROG.git
 
