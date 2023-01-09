@@ -22,11 +22,11 @@ Cara Menjalankan Program :
 
 # Untuk penjelasan program berupa pdf silahkan kunjungi link berikut :
 
-Link : https://drive.google.com/file/d/1JwLtkcXKMoFUio_r0ytKWwa-msQ8vEMv/view?usp=drivesdk
+Link : [Modul program input nilai mahasiswa](https://drive.google.com/file/d/1JwLtkcXKMoFUio_r0ytKWwa-msQ8vEMv/view?usp=drivesdk)
 
 # Untuk penjelasan program berupa video youtube silahkan kunjungi link berikut :
 
-Link : https://youtu.be/-alTwxW8QZY
+Link : [Youtube Video](https://youtu.be/-alTwxW8QZY)
 
 # Berikut link repository github :
 
